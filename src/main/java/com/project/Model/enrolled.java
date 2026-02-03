@@ -1,4 +1,4 @@
-package Model;
+package com.project.Model;
 
 public class enrolled {
     private int id_course;

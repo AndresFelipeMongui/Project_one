@@ -1,8 +1,8 @@
-package Controller;
+package com.project.Controller;
 
 import java.util.ArrayList;
 
-import Model.Student;
+import com.project.Model.Student;
 
 public class StudentController {
     
