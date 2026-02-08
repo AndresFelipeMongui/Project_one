@@ -55,10 +55,10 @@ public class Student {
      @Override
     public String toString() {
         return
+        " " +id +
                 " " +firstName +
                 ", "+lastName +
-                ", "+email +
-                ", "+id ;
+                ", "+email ;
     }
     
 }
